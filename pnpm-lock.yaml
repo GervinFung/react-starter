@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@poolofdeath20/util':
-    specifier: ^0.7.1
-    version: 0.7.1
+    specifier: ^0.8.0
+    version: 0.8.0
   react:
     specifier: ^18.2.0
     version: 18.2.0
@@ -719,8 +719,8 @@ packages:
     resolution: {integrity: sha512-uCx/BjCjqU/ctWjWBtsB/nA0mX2/OWK2PU1PplOR5m4paRzvqMjhsSzuxjxhoZrAVES4l+Tx4vCoFa/K/vcuxQ==}
     dev: true
 
-  /@poolofdeath20/util@0.7.1:
-    resolution: {integrity: sha512-fcpogpWxXXiskf+vIl+SnNQ7LMpoY3Hlxa73/ltPhaBYnlcYdCdJrk/1JOVFAyl9XowL+fDLbJHSqHg5Ps+BHQ==}
+  /@poolofdeath20/util@0.8.0:
+    resolution: {integrity: sha512-7LLKjLkfaV4pgpZAX9tPoG4tL4fyv/xv+ypxmE0SOB9kCm4DT55FPCkgpFU708hiSY014SSPSlNao16FJtA0PQ==}
     dev: false
 
   /@remix-run/router@1.16.0:
