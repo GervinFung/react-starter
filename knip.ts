@@ -1,7 +1,7 @@
 import type { KnipConfig } from 'knip';
 
 const config: KnipConfig = {
-	ignoreDependencies: ['package.json'],
+	ignoreDependencies: ['eslint', '@eslint/compat', '@eslint/js'],
 };
 
 export default config;
