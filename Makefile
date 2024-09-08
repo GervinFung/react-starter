@@ -15,7 +15,7 @@ build-production:
 
 
 lint:
-	pnpm eslint . --ignore-path .gitignore --ext .ts,.tsx --color && pnpm knip
+	pnpm eslint . --color && pnpm knip
 
 format-write:
 	pnpm prettier --write .

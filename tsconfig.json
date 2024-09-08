@@ -1,5 +1,5 @@
 {
 	"extends": ["@poolofdeath20/tsconfig/react"],
-	"include": ["*.d.ts", "**/*.ts", "**/*.tsx"],
-	"exclude": ["node_modules"]
+	"include": ["*.d.ts", "**/*.ts", "**/*.tsx", "**/*.js", "**/*.mjs"],
+	"exclude": ["node_modules", "build"]
 }
