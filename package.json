@@ -8,24 +8,24 @@
 		"postinstall": "prettier-config-generate"
 	},
 	"dependencies": {
-		"@poolofdeath20/util": "^0.8.0",
+		"@poolofdeath20/util": "^0.8.2",
 		"react": "^18.3.1",
 		"react-dom": "^18.3.1",
-		"react-router-dom": "^6.26.1"
+		"react-router-dom": "^6.26.2"
 	},
 	"devDependencies": {
-		"@poolofdeath20/eslint-config": "^0.4.0",
+		"@poolofdeath20/eslint-config": "^0.4.1",
 		"@poolofdeath20/prettier-config-generator": "^0.0.1",
 		"@poolofdeath20/tsconfig": "^0.1.1",
-		"@types/node": "^22.5.4",
-		"@types/react": "^18.3.5",
+		"@types/node": "^22.7.4",
+		"@types/react": "^18.3.10",
 		"@types/react-dom": "^18.3.0",
 		"@vitejs/plugin-react": "^4.3.1",
 		"eslint": "^9.10.0",
-		"knip": "^5.30.0",
+		"knip": "^5.30.6",
 		"prettier": "^3.3.3",
-		"typescript": "^5.5.4",
-		"vite": "^5.4.3",
-		"vitest": "^2.0.5"
+		"typescript": "^5.6.2",
+		"vite": "^5.4.8",
+		"vitest": "^2.1.1"
 	}
 }
