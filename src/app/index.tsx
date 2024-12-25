@@ -1,4 +1,5 @@
 import React from 'react';
+// eslint-disable-next-line import/named
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 import HiPage from '../page/hi';
