@@ -9,23 +9,23 @@
 	},
 	"dependencies": {
 		"@poolofdeath20/util": "^0.8.2",
-		"react": "^19.0.0",
-		"react-dom": "^19.0.0",
-		"react-router-dom": "^7.4.0"
+		"react": "^19.1.1",
+		"react-dom": "^19.1.1",
+		"react-router-dom": "^7.8.2"
 	},
 	"devDependencies": {
 		"@poolofdeath20/eslint-config": "^0.4.2",
 		"@poolofdeath20/prettier-config-generator": "^0.0.1",
-		"@poolofdeath20/tsconfig": "^0.1.1",
-		"@types/node": "^22.13.14",
-		"@types/react": "^19.0.12",
-		"@types/react-dom": "^19.0.4",
-		"@vitejs/plugin-react": "^4.3.4",
-		"eslint": "^9.23.0",
-		"knip": "^5.46.2",
-		"prettier": "^3.5.3",
-		"typescript": "^5.8.2",
-		"vite": "^6.2.3",
-		"vitest": "^3.0.9"
+		"@poolofdeath20/tsconfig": "^0.1.2",
+		"@types/node": "^24.3.0",
+		"@types/react": "^19.1.12",
+		"@types/react-dom": "^19.1.9",
+		"@vitejs/plugin-react": "^5.0.2",
+		"eslint": "^9.34.0",
+		"knip": "^5.63.0",
+		"prettier": "^3.6.2",
+		"typescript": "^5.9.2",
+		"vite": "^7.1.4",
+		"vitest": "^3.2.4"
 	}
 }
